@@ -20,7 +20,6 @@ C             D
 ``nice format``
 
 .. code-block:: c
-    :linenos:
     
     void fun()
     {
