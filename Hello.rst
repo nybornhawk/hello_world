@@ -30,3 +30,5 @@ C             D
 
 Go on
 ===========
+
+:math:`divisor = ((\frac{MCLK}{bps*16}+0.5) - 1)`
